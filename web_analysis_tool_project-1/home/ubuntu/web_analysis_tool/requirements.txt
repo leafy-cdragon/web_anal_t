@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+builtwith
+python-gnupg
+PyQt6
+
